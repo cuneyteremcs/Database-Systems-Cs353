@@ -1,0 +1,2 @@
+This project includes project reports with mysql codes,
+its design based on Social Network and Forum for Researchers (similar to ResearchGate)

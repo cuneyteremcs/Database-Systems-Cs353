@@ -1,0 +1,3 @@
+This assignment I wrote a simple Java application that connecting to a MySQL
+database and modify it. Other part is designing a basic web application using
+PHP on database that I created in first part.
